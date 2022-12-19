@@ -1,0 +1,3251 @@
+[{
+    "name": "The Shawshank Redemption",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0111161/",
+        "movie id": "tt0111161",
+        "year": "1994",
+        "actors": " Tim Robbins, Morgan Freeman",
+        "directors": "Frank Darabont "
+    },
+    "rating info": {
+        "ranking": "1",
+        "rating": "9.235262522773521"
+    }
+},{
+    "name": "The Godfather",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0068646/",
+        "movie id": "tt0068646",
+        "year": "1972",
+        "actors": " Marlon Brando, Al Pacino",
+        "directors": "Francis Ford Coppola "
+    },
+    "rating info": {
+        "ranking": "2",
+        "rating": "9.156141048647173"
+    }
+},{
+    "name": "The Dark Knight",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0468569/",
+        "movie id": "tt0468569",
+        "year": "2008",
+        "actors": " Christian Bale, Heath Ledger",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "3",
+        "rating": "8.989564834889174"
+    }
+},{
+    "name": "The Godfather Part II",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0071562/",
+        "movie id": "tt0071562",
+        "year": "1974",
+        "actors": " Al Pacino, Robert De Niro",
+        "directors": "Francis Ford Coppola "
+    },
+    "rating info": {
+        "ranking": "4",
+        "rating": "8.984021957755433"
+    }
+},{
+    "name": "12 Angry Men",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0050083/",
+        "movie id": "tt0050083",
+        "year": "1957",
+        "actors": " Henry Fonda, Lee J. Cobb",
+        "directors": "Sidney Lumet "
+    },
+    "rating info": {
+        "ranking": "5",
+        "rating": "8.951063533635732"
+    }
+},{
+    "name": "Schindler's List",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0108052/",
+        "movie id": "tt0108052",
+        "year": "1993",
+        "actors": " Liam Neeson, Ralph Fiennes",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "6",
+        "rating": "8.93827744198457"
+    }
+},{
+    "name": "The Lord of the Rings: The Return of the King",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0167260/",
+        "movie id": "tt0167260",
+        "year": "2003",
+        "actors": " Elijah Wood, Viggo Mortensen",
+        "directors": "Peter Jackson "
+    },
+    "rating info": {
+        "ranking": "7",
+        "rating": "8.929033369043797"
+    }
+},{
+    "name": "Pulp Fiction",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0110912/",
+        "movie id": "tt0110912",
+        "year": "1994",
+        "actors": " John Travolta, Uma Thurman",
+        "directors": "Quentin Tarantino "
+    },
+    "rating info": {
+        "ranking": "8",
+        "rating": "8.848085793769412"
+    }
+},{
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120737/",
+        "movie id": "tt0120737",
+        "year": "2001",
+        "actors": " Elijah Wood, Ian McKellen",
+        "directors": "Peter Jackson "
+    },
+    "rating info": {
+        "ranking": "9",
+        "rating": "8.808927736558303"
+    }
+},{
+    "name": " The Good, the Bad and the Ugly",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0060196/",
+        "movie id": "tt0060196",
+        "year": "1966",
+        "actors": " Clint Eastwood, Eli Wallach",
+        "directors": "Sergio Leone "
+    },
+    "rating info": {
+        "ranking": "1",
+        "rating": "8.790652720208294"
+    }
+},{
+    "name": "Forrest Gump",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0109830/",
+        "movie id": "tt0109830",
+        "year": "1994",
+        "actors": " Tom Hanks, Robin Wright",
+        "directors": "Robert Zemeckis "
+    },
+    "rating info": {
+        "ranking": "11",
+        "rating": "8.767485363866184"
+    }
+},{
+    "name": "Fight Club",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0137523/",
+        "movie id": "tt0137523",
+        "year": "1999",
+        "actors": " Brad Pitt, Edward Norton",
+        "directors": "David Fincher "
+    },
+    "rating info": {
+        "ranking": "12",
+        "rating": "8.748581716363947"
+    }
+},{
+    "name": "The Lord of the Rings: The Two Towers",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0167261/",
+        "movie id": "tt0167261",
+        "year": "2002",
+        "actors": " Elijah Wood, Ian McKellen",
+        "directors": "Peter Jackson "
+    },
+    "rating info": {
+        "ranking": "13",
+        "rating": "8.734184196663463"
+    }
+},{
+    "name": "Inception",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1375666/",
+        "movie id": "tt1375666",
+        "year": "2010",
+        "actors": " Leonardo DiCaprio, Joseph Gordon-Levitt",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "14",
+        "rating": "8.733052623619756"
+    }
+},{
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0080684/",
+        "movie id": "tt0080684",
+        "year": "1980",
+        "actors": " Mark Hamill, Harrison Ford",
+        "directors": "Irvin Kershner "
+    },
+    "rating info": {
+        "ranking": "15",
+        "rating": "8.699707005957137"
+    }
+},{
+    "name": "The Matrix",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0133093/",
+        "movie id": "tt0133093",
+        "year": "1999",
+        "actors": " Keanu Reeves, Laurence Fishburne",
+        "directors": "Lana Wachowski "
+    },
+    "rating info": {
+        "ranking": "16",
+        "rating": "8.669717009115072"
+    }
+},{
+    "name": "Goodfellas",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0099685/",
+        "movie id": "tt0099685",
+        "year": "1990",
+        "actors": " Robert De Niro, Ray Liotta",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "17",
+        "rating": "8.652532927006758"
+    }
+},{
+    "name": "One Flew Over the Cuckoo's Nest",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0073486/",
+        "movie id": "tt0073486",
+        "year": "1975",
+        "actors": " Jack Nicholson, Louise Fletcher",
+        "directors": "Milos Forman "
+    },
+    "rating info": {
+        "ranking": "18",
+        "rating": "8.63930465800255"
+    }
+},{
+    "name": "Se7en",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0114369/",
+        "movie id": "tt0114369",
+        "year": "1995",
+        "actors": " Morgan Freeman, Brad Pitt",
+        "directors": "David Fincher "
+    },
+    "rating info": {
+        "ranking": "19",
+        "rating": "8.604210638973232"
+    }
+},{
+    "name": "Seven Samurai",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0047478/",
+        "movie id": "tt0047478",
+        "year": "1954",
+        "actors": " Toshir\u00f4 Mifune, Takashi Shimura",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "20",
+        "rating": "8.599186915796103"
+    }
+},{
+    "name": "It's a Wonderful Life",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0038650/",
+        "movie id": "tt0038650",
+        "year": "1946",
+        "actors": " James Stewart, Donna Reed",
+        "directors": "Frank Capra "
+    },
+    "rating info": {
+        "ranking": "21",
+        "rating": "8.596793753607956"
+    }
+},{
+    "name": "The Silence of the Lambs",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0102926/",
+        "movie id": "tt0102926",
+        "year": "1991",
+        "actors": " Jodie Foster, Anthony Hopkins",
+        "directors": "Jonathan Demme "
+    },
+    "rating info": {
+        "ranking": "22",
+        "rating": "8.588162792621612"
+    }
+},{
+    "name": "City of God",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0317248/",
+        "movie id": "tt0317248",
+        "year": "2002",
+        "actors": " Alexandre Rodrigues, Leandro Firmino",
+        "directors": "Fernando Meirelles "
+    },
+    "rating info": {
+        "ranking": "23",
+        "rating": "8.579604003766633"
+    }
+},{
+    "name": "Saving Private Ryan",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120815/",
+        "movie id": "tt0120815",
+        "year": "1998",
+        "actors": " Tom Hanks, Matt Damon",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "24",
+        "rating": "8.579074209644467"
+    }
+},{
+    "name": "Life Is Beautiful",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0118799/",
+        "movie id": "tt0118799",
+        "year": "1997",
+        "actors": " Roberto Benigni, Nicoletta Braschi",
+        "directors": "Roberto Benigni "
+    },
+    "rating info": {
+        "ranking": "25",
+        "rating": "8.56819353234829"
+    }
+},{
+    "name": "Interstellar",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0816692/",
+        "movie id": "tt0816692",
+        "year": "2014",
+        "actors": " Matthew McConaughey, Anne Hathaway",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "26",
+        "rating": "8.565265818576654"
+    }
+},{
+    "name": "The Green Mile",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120689/",
+        "movie id": "tt0120689",
+        "year": "1999",
+        "actors": " Tom Hanks, Michael Clarke Duncan",
+        "directors": "Frank Darabont "
+    },
+    "rating info": {
+        "ranking": "27",
+        "rating": "8.562314239984993"
+    }
+},{
+    "name": "Star Wars",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0076759/",
+        "movie id": "tt0076759",
+        "year": "1977",
+        "actors": " Mark Hamill, Harrison Ford",
+        "directors": "George Lucas "
+    },
+    "rating info": {
+        "ranking": "28",
+        "rating": "8.550201255962511"
+    }
+},{
+    "name": "Terminator 2: Judgment Day",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0103064/",
+        "movie id": "tt0103064",
+        "year": "1991",
+        "actors": " Arnold Schwarzenegger, Linda Hamilton",
+        "directors": "James Cameron "
+    },
+    "rating info": {
+        "ranking": "29",
+        "rating": "8.536574215779192"
+    }
+},{
+    "name": "Back to the Future",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0088763/",
+        "movie id": "tt0088763",
+        "year": "1985",
+        "actors": " Michael J. Fox, Christopher Lloyd",
+        "directors": "Robert Zemeckis "
+    },
+    "rating info": {
+        "ranking": "30",
+        "rating": "8.517967573911998"
+    }
+},{
+    "name": "Spirited Away",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0245429/",
+        "movie id": "tt0245429",
+        "year": "2001",
+        "actors": " Daveigh Chase, Suzanne Pleshette",
+        "directors": "Hayao Miyazaki "
+    },
+    "rating info": {
+        "ranking": "31",
+        "rating": "8.51624879785093"
+    }
+},{
+    "name": "Psycho",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0054215/",
+        "movie id": "tt0054215",
+        "year": "1960",
+        "actors": " Anthony Perkins, Janet Leigh",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "32",
+        "rating": "8.50720643337436"
+    }
+},{
+    "name": "The Pianist",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0253474/",
+        "movie id": "tt0253474",
+        "year": "2002",
+        "actors": " Adrien Brody, Thomas Kretschmann",
+        "directors": "Roman Polanski "
+    },
+    "rating info": {
+        "ranking": "33",
+        "rating": "8.506616329052978"
+    }
+},{
+    "name": "Parasite",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt6751668/",
+        "movie id": "tt6751668",
+        "year": "2019",
+        "actors": " Song Kang-ho, Lee Sun-kyun",
+        "directors": "Bong Joon Ho "
+    },
+    "rating info": {
+        "ranking": "34",
+        "rating": "8.49821112568045"
+    }
+},{
+    "name": "L\u00e9on: The Professional",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0110413/",
+        "movie id": "tt0110413",
+        "year": "1994",
+        "actors": " Jean Reno, Gary Oldman",
+        "directors": "Luc Besson "
+    },
+    "rating info": {
+        "ranking": "35",
+        "rating": "8.495844028165722"
+    }
+},{
+    "name": "The Lion King",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0110357/",
+        "movie id": "tt0110357",
+        "year": "1994",
+        "actors": " Matthew Broderick, Jeremy Irons",
+        "directors": "Roger Allers "
+    },
+    "rating info": {
+        "ranking": "36",
+        "rating": "8.488392774534582"
+    }
+},{
+    "name": "Gladiator",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0172495/",
+        "movie id": "tt0172495",
+        "year": "2000",
+        "actors": " Russell Crowe, Joaquin Phoenix",
+        "directors": "Ridley Scott "
+    },
+    "rating info": {
+        "ranking": "37",
+        "rating": "8.486296993831624"
+    }
+},{
+    "name": "American History X",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120586/",
+        "movie id": "tt0120586",
+        "year": "1998",
+        "actors": " Edward Norton, Edward Furlong",
+        "directors": "Tony Kaye "
+    },
+    "rating info": {
+        "ranking": "38",
+        "rating": "8.48266125254327"
+    }
+},{
+    "name": "The Departed",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0407887/",
+        "movie id": "tt0407887",
+        "year": "2006",
+        "actors": " Leonardo DiCaprio, Matt Damon",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "39",
+        "rating": "8.475685870935697"
+    }
+},{
+    "name": "The Usual Suspects",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0114814/",
+        "movie id": "tt0114814",
+        "year": "1995",
+        "actors": " Kevin Spacey, Gabriel Byrne",
+        "directors": "Bryan Singer "
+    },
+    "rating info": {
+        "ranking": "40",
+        "rating": "8.471932075802522"
+    }
+},{
+    "name": "The Prestige",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0482571/",
+        "movie id": "tt0482571",
+        "year": "2006",
+        "actors": " Christian Bale, Hugh Jackman",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "41",
+        "rating": "8.468927121886612"
+    }
+},{
+    "name": "Whiplash",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2582802/",
+        "movie id": "tt2582802",
+        "year": "2014",
+        "actors": " Miles Teller, J.K. Simmons",
+        "directors": "Damien Chazelle "
+    },
+    "rating info": {
+        "ranking": "42",
+        "rating": "8.465325429862336"
+    }
+},{
+    "name": "Casablanca",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0034583/",
+        "movie id": "tt0034583",
+        "year": "1942",
+        "actors": " Humphrey Bogart, Ingrid Bergman",
+        "directors": "Michael Curtiz "
+    },
+    "rating info": {
+        "ranking": "43",
+        "rating": "8.463408609200323"
+    }
+},{
+    "name": "Harakiri",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0056058/",
+        "movie id": "tt0056058",
+        "year": "1962",
+        "actors": " Tatsuya Nakadai, Akira Ishihama",
+        "directors": "Masaki Kobayashi "
+    },
+    "rating info": {
+        "ranking": "44",
+        "rating": "8.455739679980601"
+    }
+},{
+    "name": "Grave of the Fireflies",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0095327/",
+        "movie id": "tt0095327",
+        "year": "1988",
+        "actors": " Tsutomu Tatsumi, Ayano Shiraishi",
+        "directors": "Isao Takahata "
+    },
+    "rating info": {
+        "ranking": "45",
+        "rating": "8.45438706377896"
+    }
+},{
+    "name": "The Intouchables",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1675434/",
+        "movie id": "tt1675434",
+        "year": "2011",
+        "actors": " Fran\u00e7ois Cluzet, Omar Sy",
+        "directors": "Olivier Nakache "
+    },
+    "rating info": {
+        "ranking": "46",
+        "rating": "8.454236556153198"
+    }
+},{
+    "name": "Modern Times",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0027977/",
+        "movie id": "tt0027977",
+        "year": "1936",
+        "actors": " Charles Chaplin, Paulette Goddard",
+        "directors": "Charles Chaplin "
+    },
+    "rating info": {
+        "ranking": "47",
+        "rating": "8.448599510440369"
+    }
+},{
+    "name": "Once Upon a Time in the West",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0064116/",
+        "movie id": "tt0064116",
+        "year": "1968",
+        "actors": " Henry Fonda, Charles Bronson",
+        "directors": "Sergio Leone "
+    },
+    "rating info": {
+        "ranking": "48",
+        "rating": "8.443699968055618"
+    }
+},{
+    "name": "Rear Window",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0047396/",
+        "movie id": "tt0047396",
+        "year": "1954",
+        "actors": " James Stewart, Grace Kelly",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "49",
+        "rating": "8.436136012183644"
+    }
+},{
+    "name": "Cinema Paradiso",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0095765/",
+        "movie id": "tt0095765",
+        "year": "1988",
+        "actors": " Philippe Noiret, Enzo Cannavale",
+        "directors": "Giuseppe Tornatore "
+    },
+    "rating info": {
+        "ranking": "50",
+        "rating": "8.434273868750362"
+    }
+},{
+    "name": "Alien",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0078748/",
+        "movie id": "tt0078748",
+        "year": "1979",
+        "actors": " Sigourney Weaver, Tom Skerritt",
+        "directors": "Ridley Scott "
+    },
+    "rating info": {
+        "ranking": "51",
+        "rating": "8.433851671585261"
+    }
+},{
+    "name": "City Lights",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0021749/",
+        "movie id": "tt0021749",
+        "year": "1931",
+        "actors": " Charles Chaplin, Virginia Cherrill",
+        "directors": "Charles Chaplin "
+    },
+    "rating info": {
+        "ranking": "52",
+        "rating": "8.433576064744972"
+    }
+},{
+    "name": "Apocalypse Now",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0078788/",
+        "movie id": "tt0078788",
+        "year": "1979",
+        "actors": " Martin Sheen, Marlon Brando",
+        "directors": "Francis Ford Coppola "
+    },
+    "rating info": {
+        "ranking": "53",
+        "rating": "8.42394304044127"
+    }
+},{
+    "name": "Memento",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0209144/",
+        "movie id": "tt0209144",
+        "year": "2000",
+        "actors": " Guy Pearce, Carrie-Anne Moss",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "54",
+        "rating": "8.421991683003357"
+    }
+},{
+    "name": "Raiders of the Lost Ark",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0082971/",
+        "movie id": "tt0082971",
+        "year": "1981",
+        "actors": " Harrison Ford, Karen Allen",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "55",
+        "rating": "8.408203563390023"
+    }
+},{
+    "name": "Django Unchained",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1853728/",
+        "movie id": "tt1853728",
+        "year": "2012",
+        "actors": " Jamie Foxx, Christoph Waltz",
+        "directors": "Quentin Tarantino "
+    },
+    "rating info": {
+        "ranking": "56",
+        "rating": "8.406881313031956"
+    }
+},{
+    "name": "WALL\u00b7E",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0910970/",
+        "movie id": "tt0910970",
+        "year": "2008",
+        "actors": " Ben Burtt, Elissa Knight",
+        "directors": "Andrew Stanton "
+    },
+    "rating info": {
+        "ranking": "57",
+        "rating": "8.394469709749163"
+    }
+},{
+    "name": "The Lives of Others",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0405094/",
+        "movie id": "tt0405094",
+        "year": "2006",
+        "actors": " Ulrich M\u00fche, Martina Gedeck",
+        "directors": "Florian Henckel von Donnersmarck "
+    },
+    "rating info": {
+        "ranking": "58",
+        "rating": "8.385072698542842"
+    }
+},{
+    "name": "Sunset Blvd",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0043014/",
+        "movie id": "tt0043014",
+        "year": "1950",
+        "actors": " William Holden, Gloria Swanson",
+        "directors": "Billy Wilder "
+    },
+    "rating info": {
+        "ranking": "59",
+        "rating": "8.379834495117857"
+    }
+},{
+    "name": "Paths of Glory",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0050825/",
+        "movie id": "tt0050825",
+        "year": "1957",
+        "actors": " Kirk Douglas, Ralph Meeker",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "60",
+        "rating": "8.372206215350202"
+    }
+},{
+    "name": "The Great Dictator",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0032553/",
+        "movie id": "tt0032553",
+        "year": "1940",
+        "actors": " Charles Chaplin, Paulette Goddard",
+        "directors": "Charles Chaplin "
+    },
+    "rating info": {
+        "ranking": "61",
+        "rating": "8.3657817083669"
+    }
+},{
+    "name": "The Shining",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0081505/",
+        "movie id": "tt0081505",
+        "year": "1980",
+        "actors": " Jack Nicholson, Shelley Duvall",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "62",
+        "rating": "8.365743956395862"
+    }
+},{
+    "name": "Avengers: Infinity War",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt4154756/",
+        "movie id": "tt4154756",
+        "year": "2018",
+        "actors": " Robert Downey Jr., Chris Hemsworth",
+        "directors": "Anthony Russo "
+    },
+    "rating info": {
+        "ranking": "63",
+        "rating": "8.360881338649442"
+    }
+},{
+    "name": "Witness for the Prosecution",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0051201/",
+        "movie id": "tt0051201",
+        "year": "1957",
+        "actors": " Tyrone Power, Marlene Dietrich",
+        "directors": "Billy Wilder "
+    },
+    "rating info": {
+        "ranking": "64",
+        "rating": "8.359874368075687"
+    }
+},{
+    "name": "Aliens",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0090605/",
+        "movie id": "tt0090605",
+        "year": "1986",
+        "actors": " Sigourney Weaver, Michael Biehn",
+        "directors": "James Cameron "
+    },
+    "rating info": {
+        "ranking": "65",
+        "rating": "8.343235266633965"
+    }
+},{
+    "name": "Spider-Man: Into the Spider-Verse",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt4633694/",
+        "movie id": "tt4633694",
+        "year": "2018",
+        "actors": " Shameik Moore, Jake Johnson",
+        "directors": "Bob Persichetti "
+    },
+    "rating info": {
+        "ranking": "66",
+        "rating": "8.334983519963814"
+    }
+},{
+    "name": "American Beauty",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0169547/",
+        "movie id": "tt0169547",
+        "year": "1999",
+        "actors": " Kevin Spacey, Annette Bening",
+        "directors": "Sam Mendes "
+    },
+    "rating info": {
+        "ranking": "67",
+        "rating": "8.333021365364251"
+    }
+},{
+    "name": "Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0057012/",
+        "movie id": "tt0057012",
+        "year": "1964",
+        "actors": " Peter Sellers, George C. Scott",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "68",
+        "rating": "8.329784487623774"
+    }
+},{
+    "name": "The Dark Knight Rises",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1345836/",
+        "movie id": "tt1345836",
+        "year": "2012",
+        "actors": " Christian Bale, Tom Hardy",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "69",
+        "rating": "8.327047877952324"
+    }
+},{
+    "name": "Oldboy",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0364569/",
+        "movie id": "tt0364569",
+        "year": "2003",
+        "actors": " Choi Min-sik, Yoo Ji-tae",
+        "directors": "Park Chan-wook "
+    },
+    "rating info": {
+        "ranking": "70",
+        "rating": "8.320510852217762"
+    }
+},{
+    "name": "Amadeus",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0086879/",
+        "movie id": "tt0086879",
+        "year": "1984",
+        "actors": " F. Murray Abraham, Tom Hulce",
+        "directors": "Milos Forman "
+    },
+    "rating info": {
+        "ranking": "71",
+        "rating": "8.316362848887906"
+    }
+},{
+    "name": "Inglourious Basterds",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0361748/",
+        "movie id": "tt0361748",
+        "year": "2009",
+        "actors": " Brad Pitt, Diane Kruger",
+        "directors": "Quentin Tarantino "
+    },
+    "rating info": {
+        "ranking": "72",
+        "rating": "8.315625047918264"
+    }
+},{
+    "name": "Joker",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt7286456/",
+        "movie id": "tt7286456",
+        "year": "2019",
+        "actors": " Joaquin Phoenix, Robert De Niro",
+        "directors": "Todd Phillips "
+    },
+    "rating info": {
+        "ranking": "73",
+        "rating": "8.315419119055141"
+    }
+},{
+    "name": "Coco",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2380307/",
+        "movie id": "tt2380307",
+        "year": "2017",
+        "actors": " Anthony Gonzalez, Gael Garc\u00eda Bernal",
+        "directors": "Lee Unkrich "
+    },
+    "rating info": {
+        "ranking": "74",
+        "rating": "8.315073856554047"
+    }
+},{
+    "name": "Toy Story",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0114709/",
+        "movie id": "tt0114709",
+        "year": "1995",
+        "actors": " Tom Hanks, Tim Allen",
+        "directors": "John Lasseter "
+    },
+    "rating info": {
+        "ranking": "75",
+        "rating": "8.314204019310264"
+    }
+},{
+    "name": "Braveheart",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0112573/",
+        "movie id": "tt0112573",
+        "year": "1995",
+        "actors": " Mel Gibson, Sophie Marceau",
+        "directors": "Mel Gibson "
+    },
+    "rating info": {
+        "ranking": "76",
+        "rating": "8.313648885110995"
+    }
+},{
+    "name": "The Boat",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0082096/",
+        "movie id": "tt0082096",
+        "year": "1981",
+        "actors": " J\u00fcrgen Prochnow, Herbert Gr\u00f6nemeyer",
+        "directors": "Wolfgang Petersen "
+    },
+    "rating info": {
+        "ranking": "77",
+        "rating": "8.312142689485745"
+    }
+},{
+    "name": "Avengers: Endgame",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt4154796/",
+        "movie id": "tt4154796",
+        "year": "2019",
+        "actors": " Robert Downey Jr., Chris Evans",
+        "directors": "Anthony Russo "
+    },
+    "rating info": {
+        "ranking": "78",
+        "rating": "8.304373778011163"
+    }
+},{
+    "name": "Princess Mononoke",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0119698/",
+        "movie id": "tt0119698",
+        "year": "1997",
+        "actors": " Y\u00f4ji Matsuda, Yuriko Ishida",
+        "directors": "Hayao Miyazaki "
+    },
+    "rating info": {
+        "ranking": "79",
+        "rating": "8.303590356890751"
+    }
+},{
+    "name": "Once Upon a Time in America",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0087843/",
+        "movie id": "tt0087843",
+        "year": "1984",
+        "actors": " Robert De Niro, James Woods",
+        "directors": "Sergio Leone "
+    },
+    "rating info": {
+        "ranking": "80",
+        "rating": "8.296303613235919"
+    }
+},{
+    "name": "Good Will Hunting",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0119217/",
+        "movie id": "tt0119217",
+        "year": "1997",
+        "actors": " Robin Williams, Matt Damon",
+        "directors": "Gus Van Sant "
+    },
+    "rating info": {
+        "ranking": "81",
+        "rating": "8.29008968008362"
+    }
+},{
+    "name": "Your Name",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt5311514/",
+        "movie id": "tt5311514",
+        "year": "2016",
+        "actors": " Ry\u00fbnosuke Kamiki, Mone Kamishiraishi",
+        "directors": "Makoto Shinkai "
+    },
+    "rating info": {
+        "ranking": "82",
+        "rating": "8.2809305861916"
+    }
+},{
+    "name": "Top Gun: Maverick",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1745960/",
+        "movie id": "tt1745960",
+        "year": "2022",
+        "actors": " Tom Cruise, Jennifer Connelly",
+        "directors": "Joseph Kosinski "
+    },
+    "rating info": {
+        "ranking": "83",
+        "rating": "8.278773752765774"
+    }
+},{
+    "name": "Requiem for a Dream",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0180093/",
+        "movie id": "tt0180093",
+        "year": "2000",
+        "actors": " Ellen Burstyn, Jared Leto",
+        "directors": "Darren Aronofsky "
+    },
+    "rating info": {
+        "ranking": "84",
+        "rating": "8.27543565978608"
+    }
+},{
+    "name": "3 Idiots",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1187043/",
+        "movie id": "tt1187043",
+        "year": "2009",
+        "actors": " Aamir Khan, Madhavan",
+        "directors": "Rajkumar Hirani "
+    },
+    "rating info": {
+        "ranking": "85",
+        "rating": "8.274179283297109"
+    }
+},{
+    "name": "Singin' in the Rain",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0045152/",
+        "movie id": "tt0045152",
+        "year": "1952",
+        "actors": " Gene Kelly, Donald O'Connor",
+        "directors": "Stanley Donen "
+    },
+    "rating info": {
+        "ranking": "86",
+        "rating": "8.274141100825153"
+    }
+},{
+    "name": "Toy Story 3",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0435761/",
+        "movie id": "tt0435761",
+        "year": "2010",
+        "actors": " Tom Hanks, Tim Allen",
+        "directors": "Lee Unkrich "
+    },
+    "rating info": {
+        "ranking": "87",
+        "rating": "8.273088381537015"
+    }
+},{
+    "name": "High and Low",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0057565/",
+        "movie id": "tt0057565",
+        "year": "1963",
+        "actors": " Toshir\u00f4 Mifune, Yutaka Sada",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "88",
+        "rating": "8.27082197003999"
+    }
+},{
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0086190/",
+        "movie id": "tt0086190",
+        "year": "1983",
+        "actors": " Mark Hamill, Harrison Ford",
+        "directors": "Richard Marquand "
+    },
+    "rating info": {
+        "ranking": "89",
+        "rating": "8.265345477054819"
+    }
+},{
+    "name": "Capernaum",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt8267604/",
+        "movie id": "tt8267604",
+        "year": "2018",
+        "actors": " Zain Al Rafeea, Yordanos Shiferaw",
+        "directors": "Nadine Labaki "
+    },
+    "rating info": {
+        "ranking": "90",
+        "rating": "8.263578778423609"
+    }
+},{
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0338013/",
+        "movie id": "tt0338013",
+        "year": "2004",
+        "actors": " Jim Carrey, Kate Winslet",
+        "directors": "Michel Gondry "
+    },
+    "rating info": {
+        "ranking": "91",
+        "rating": "8.262678393483593"
+    }
+},{
+    "name": "2001: A Space Odyssey",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0062622/",
+        "movie id": "tt0062622",
+        "year": "1968",
+        "actors": " Keir Dullea, Gary Lockwood",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "92",
+        "rating": "8.26266211490911"
+    }
+},{
+    "name": "Reservoir Dogs",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0105236/",
+        "movie id": "tt0105236",
+        "year": "1992",
+        "actors": " Harvey Keitel, Tim Roth",
+        "directors": "Quentin Tarantino "
+    },
+    "rating info": {
+        "ranking": "93",
+        "rating": "8.261151560718153"
+    }
+},{
+    "name": "The Hunt",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2106476/",
+        "movie id": "tt2106476",
+        "year": "2012",
+        "actors": " Mads Mikkelsen, Thomas Bo Larsen",
+        "directors": "Thomas Vinterberg "
+    },
+    "rating info": {
+        "ranking": "94",
+        "rating": "8.256563598599664"
+    }
+},{
+    "name": "Come and See",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0091251/",
+        "movie id": "tt0091251",
+        "year": "1985",
+        "actors": " Aleksey Kravchenko, Olga Mironova",
+        "directors": "Elem Klimov "
+    },
+    "rating info": {
+        "ranking": "95",
+        "rating": "8.255142774459237"
+    }
+},{
+    "name": "Citizen Kane",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0033467/",
+        "movie id": "tt0033467",
+        "year": "1941",
+        "actors": " Orson Welles, Joseph Cotten",
+        "directors": "Orson Welles "
+    },
+    "rating info": {
+        "ranking": "96",
+        "rating": "8.252649908268607"
+    }
+},{
+    "name": "M",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0022100/",
+        "movie id": "tt0022100",
+        "year": "1931",
+        "actors": " Peter Lorre, Ellen Widmann",
+        "directors": "Fritz Lang "
+    },
+    "rating info": {
+        "ranking": "97",
+        "rating": "8.252032716274012"
+    }
+},{
+    "name": "Lawrence of Arabia",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0056172/",
+        "movie id": "tt0056172",
+        "year": "1962",
+        "actors": " Peter O'Toole, Alec Guinness",
+        "directors": "David Lean "
+    },
+    "rating info": {
+        "ranking": "98",
+        "rating": "8.251667190884408"
+    }
+},{
+    "name": "North by Northwest",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0053125/",
+        "movie id": "tt0053125",
+        "year": "1959",
+        "actors": " Cary Grant, Eva Marie Saint",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "99",
+        "rating": "8.247836494426284"
+    }
+},{
+    "name": " Vertigo",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0052357/",
+        "movie id": "tt0052357",
+        "year": "1958",
+        "actors": " James Stewart, Kim Novak",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "10",
+        "rating": "8.244306933011364"
+    }
+},{
+    "name": "Am\u00e9lie",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0211915/",
+        "movie id": "tt0211915",
+        "year": "2001",
+        "actors": " Audrey Tautou, Mathieu Kassovitz",
+        "directors": "Jean-Pierre Jeunet "
+    },
+    "rating info": {
+        "ranking": "101",
+        "rating": "8.243449567513228"
+    }
+},{
+    "name": "A Clockwork Orange",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0066921/",
+        "movie id": "tt0066921",
+        "year": "1971",
+        "actors": " Malcolm McDowell, Patrick Magee",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "102",
+        "rating": "8.240846529458233"
+    }
+},{
+    "name": "The Apartment",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0053604/",
+        "movie id": "tt0053604",
+        "year": "1960",
+        "actors": " Jack Lemmon, Shirley MacLaine",
+        "directors": "Billy Wilder "
+    },
+    "rating info": {
+        "ranking": "103",
+        "rating": "8.24038221832055"
+    }
+},{
+    "name": "Ikiru",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0044741/",
+        "movie id": "tt0044741",
+        "year": "1952",
+        "actors": " Takashi Shimura, Nobuo Kaneko",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "104",
+        "rating": "8.23992548227155"
+    }
+},{
+    "name": "Double Indemnity",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0036775/",
+        "movie id": "tt0036775",
+        "year": "1944",
+        "actors": " Fred MacMurray, Barbara Stanwyck",
+        "directors": "Billy Wilder "
+    },
+    "rating info": {
+        "ranking": "105",
+        "rating": "8.2387166581692"
+    }
+},{
+    "name": "Full Metal Jacket",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0093058/",
+        "movie id": "tt0093058",
+        "year": "1987",
+        "actors": " Matthew Modine, R. Lee Ermey",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "106",
+        "rating": "8.237922695952989"
+    }
+},{
+    "name": "Hamilton",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt8503618/",
+        "movie id": "tt8503618",
+        "year": "2020",
+        "actors": " Lin-Manuel Miranda, Phillipa Soo",
+        "directors": "Thomas Kail "
+    },
+    "rating info": {
+        "ranking": "107",
+        "rating": "8.235568673976367"
+    }
+},{
+    "name": "Scarface",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0086250/",
+        "movie id": "tt0086250",
+        "year": "1983",
+        "actors": " Al Pacino, Michelle Pfeiffer",
+        "directors": "Brian De Palma "
+    },
+    "rating info": {
+        "ranking": "108",
+        "rating": "8.235057214417598"
+    }
+},{
+    "name": "To Kill a Mockingbird",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0056592/",
+        "movie id": "tt0056592",
+        "year": "1962",
+        "actors": " Gregory Peck, John Megna",
+        "directors": "Robert Mulligan "
+    },
+    "rating info": {
+        "ranking": "109",
+        "rating": "8.226752811967156"
+    }
+},{
+    "name": "The Sting",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0070735/",
+        "movie id": "tt0070735",
+        "year": "1973",
+        "actors": " Paul Newman, Robert Redford",
+        "directors": "George Roy Hill "
+    },
+    "rating info": {
+        "ranking": "110",
+        "rating": "8.22662429338102"
+    }
+},{
+    "name": "Incendies",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1255953/",
+        "movie id": "tt1255953",
+        "year": "2010",
+        "actors": " Lubna Azabal, M\u00e9lissa D\u00e9sormeaux-Poulin",
+        "directors": "Denis Villeneuve "
+    },
+    "rating info": {
+        "ranking": "111",
+        "rating": "8.225599262075164"
+    }
+},{
+    "name": "Up",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1049413/",
+        "movie id": "tt1049413",
+        "year": "2009",
+        "actors": " Edward Asner, Jordan Nagai",
+        "directors": "Pete Docter "
+    },
+    "rating info": {
+        "ranking": "112",
+        "rating": "8.224628805660421"
+    }
+},{
+    "name": "Heat",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0113277/",
+        "movie id": "tt0113277",
+        "year": "1995",
+        "actors": " Al Pacino, Robert De Niro",
+        "directors": "Michael Mann "
+    },
+    "rating info": {
+        "ranking": "113",
+        "rating": "8.224397923446015"
+    }
+},{
+    "name": "Taxi Driver",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0075314/",
+        "movie id": "tt0075314",
+        "year": "1976",
+        "actors": " Robert De Niro, Jodie Foster",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "114",
+        "rating": "8.222486835918197"
+    }
+},{
+    "name": "A Separation",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1832382/",
+        "movie id": "tt1832382",
+        "year": "2011",
+        "actors": " Payman Maadi, Leila Hatami",
+        "directors": "Asghar Farhadi "
+    },
+    "rating info": {
+        "ranking": "115",
+        "rating": "8.222381043614194"
+    }
+},{
+    "name": "Metropolis",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0017136/",
+        "movie id": "tt0017136",
+        "year": "1927",
+        "actors": " Brigitte Helm, Alfred Abel",
+        "directors": "Fritz Lang "
+    },
+    "rating info": {
+        "ranking": "116",
+        "rating": "8.221690010253923"
+    }
+},{
+    "name": "LA Confidential",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0119488/",
+        "movie id": "tt0119488",
+        "year": "1997",
+        "actors": " Kevin Spacey, Russell Crowe",
+        "directors": "Curtis Hanson "
+    },
+    "rating info": {
+        "ranking": "117",
+        "rating": "8.22054215572595"
+    }
+},{
+    "name": "Die Hard",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0095016/",
+        "movie id": "tt0095016",
+        "year": "1988",
+        "actors": " Bruce Willis, Alan Rickman",
+        "directors": "John McTiernan "
+    },
+    "rating info": {
+        "ranking": "118",
+        "rating": "8.218198132358365"
+    }
+},{
+    "name": "Snatch",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0208092/",
+        "movie id": "tt0208092",
+        "year": "2000",
+        "actors": " Jason Statham, Brad Pitt",
+        "directors": "Guy Ritchie "
+    },
+    "rating info": {
+        "ranking": "119",
+        "rating": "8.218126379662724"
+    }
+},{
+    "name": "Bicycle Thieves",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0040522/",
+        "movie id": "tt0040522",
+        "year": "1948",
+        "actors": " Lamberto Maggiorani, Enzo Staiola",
+        "directors": "Vittorio De Sica "
+    },
+    "rating info": {
+        "ranking": "120",
+        "rating": "8.217076957910264"
+    }
+},{
+    "name": "Indiana Jones and the Last Crusade",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0097576/",
+        "movie id": "tt0097576",
+        "year": "1989",
+        "actors": " Harrison Ford, Sean Connery",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "121",
+        "rating": "8.217060786529807"
+    }
+},{
+    "name": "Like Stars on Earth",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0986264/",
+        "movie id": "tt0986264",
+        "year": "2007",
+        "actors": " Darsheel Safary, Aamir Khan",
+        "directors": "Aamir Khan "
+    },
+    "rating info": {
+        "ranking": "122",
+        "rating": "8.212170473398992"
+    }
+},{
+    "name": "1917",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt8579674/",
+        "movie id": "tt8579674",
+        "year": "2019",
+        "actors": " Dean-Charles Chapman, George MacKay",
+        "directors": "Sam Mendes "
+    },
+    "rating info": {
+        "ranking": "123",
+        "rating": "8.21146199618869"
+    }
+},{
+    "name": "Downfall",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0363163/",
+        "movie id": "tt0363163",
+        "year": "2004",
+        "actors": " Bruno Ganz, Alexandra Maria Lara",
+        "directors": "Oliver Hirschbiegel "
+    },
+    "rating info": {
+        "ranking": "124",
+        "rating": "8.20360059982214"
+    }
+},{
+    "name": "For a Few Dollars More",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0059578/",
+        "movie id": "tt0059578",
+        "year": "1965",
+        "actors": " Clint Eastwood, Lee Van Cleef",
+        "directors": "Sergio Leone "
+    },
+    "rating info": {
+        "ranking": "125",
+        "rating": "8.20073276276787"
+    }
+},{
+    "name": "Dangal",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt5074352/",
+        "movie id": "tt5074352",
+        "year": "2016",
+        "actors": " Aamir Khan, Sakshi Tanwar",
+        "directors": "Nitesh Tiwari "
+    },
+    "rating info": {
+        "ranking": "126",
+        "rating": "8.199624012028284"
+    }
+},{
+    "name": "Batman Begins",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0372784/",
+        "movie id": "tt0372784",
+        "year": "2005",
+        "actors": " Christian Bale, Michael Caine",
+        "directors": "Christopher Nolan "
+    },
+    "rating info": {
+        "ranking": "127",
+        "rating": "8.198835706771737"
+    }
+},{
+    "name": "The Kid",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0012349/",
+        "movie id": "tt0012349",
+        "year": "1921",
+        "actors": " Charles Chaplin, Edna Purviance",
+        "directors": "Charles Chaplin "
+    },
+    "rating info": {
+        "ranking": "128",
+        "rating": "8.192608133403956"
+    }
+},{
+    "name": "Some Like It Hot",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0053291/",
+        "movie id": "tt0053291",
+        "year": "1959",
+        "actors": " Marilyn Monroe, Tony Curtis",
+        "directors": "Billy Wilder "
+    },
+    "rating info": {
+        "ranking": "129",
+        "rating": "8.191376892786328"
+    }
+},{
+    "name": "The Father",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt10272386/",
+        "movie id": "tt10272386",
+        "year": "2020",
+        "actors": " Anthony Hopkins, Olivia Colman",
+        "directors": "Florian Zeller "
+    },
+    "rating info": {
+        "ranking": "130",
+        "rating": "8.181166242277728"
+    }
+},{
+    "name": "All About Eve",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0042192/",
+        "movie id": "tt0042192",
+        "year": "1950",
+        "actors": " Bette Davis, Anne Baxter",
+        "directors": "Joseph L. Mankiewicz "
+    },
+    "rating info": {
+        "ranking": "131",
+        "rating": "8.18056127014982"
+    }
+},{
+    "name": "Green Book",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt6966692/",
+        "movie id": "tt6966692",
+        "year": "2018",
+        "actors": " Viggo Mortensen, Mahershala Ali",
+        "directors": "Peter Farrelly "
+    },
+    "rating info": {
+        "ranking": "132",
+        "rating": "8.176811479621168"
+    }
+},{
+    "name": "The Wolf of Wall Street",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0993846/",
+        "movie id": "tt0993846",
+        "year": "2013",
+        "actors": " Leonardo DiCaprio, Jonah Hill",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "133",
+        "rating": "8.175467470675393"
+    }
+},{
+    "name": "Judgment at Nuremberg",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0055031/",
+        "movie id": "tt0055031",
+        "year": "1961",
+        "actors": " Spencer Tracy, Burt Lancaster",
+        "directors": "Stanley Kramer "
+    },
+    "rating info": {
+        "ranking": "134",
+        "rating": "8.17052995099738"
+    }
+},{
+    "name": "Ran",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0089881/",
+        "movie id": "tt0089881",
+        "year": "1985",
+        "actors": " Tatsuya Nakadai, Akira Terao",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "135",
+        "rating": "8.164387242761673"
+    }
+},{
+    "name": "Casino",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0112641/",
+        "movie id": "tt0112641",
+        "year": "1995",
+        "actors": " Robert De Niro, Sharon Stone",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "136",
+        "rating": "8.164050506371566"
+    }
+},{
+    "name": "Pan's Labyrinth",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0457430/",
+        "movie id": "tt0457430",
+        "year": "2006",
+        "actors": " Ivana Baquero, Ariadna Gil",
+        "directors": "Guillermo del Toro "
+    },
+    "rating info": {
+        "ranking": "137",
+        "rating": "8.161972680772259"
+    }
+},{
+    "name": "Unforgiven",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0105695/",
+        "movie id": "tt0105695",
+        "year": "1992",
+        "actors": " Clint Eastwood, Gene Hackman",
+        "directors": "Clint Eastwood "
+    },
+    "rating info": {
+        "ranking": "138",
+        "rating": "8.160254357623888"
+    }
+},{
+    "name": "There Will Be Blood",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0469494/",
+        "movie id": "tt0469494",
+        "year": "2007",
+        "actors": " Daniel Day-Lewis, Paul Dano",
+        "directors": "Paul Thomas Anderson "
+    },
+    "rating info": {
+        "ranking": "139",
+        "rating": "8.158232762099951"
+    }
+},{
+    "name": "The Truman Show",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120382/",
+        "movie id": "tt0120382",
+        "year": "1998",
+        "actors": " Jim Carrey, Ed Harris",
+        "directors": "Peter Weir "
+    },
+    "rating info": {
+        "ranking": "140",
+        "rating": "8.157685612776955"
+    }
+},{
+    "name": "The Sixth Sense",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0167404/",
+        "movie id": "tt0167404",
+        "year": "1999",
+        "actors": " Bruce Willis, Haley Joel Osment",
+        "directors": "M. Night Shyamalan "
+    },
+    "rating info": {
+        "ranking": "141",
+        "rating": "8.153858442009305"
+    }
+},{
+    "name": "A Beautiful Mind",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0268978/",
+        "movie id": "tt0268978",
+        "year": "2001",
+        "actors": " Russell Crowe, Ed Harris",
+        "directors": "Ron Howard "
+    },
+    "rating info": {
+        "ranking": "142",
+        "rating": "8.151625143408006"
+    }
+},{
+    "name": "Shutter Island",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1130884/",
+        "movie id": "tt1130884",
+        "year": "2010",
+        "actors": " Leonardo DiCaprio, Emily Mortimer",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "143",
+        "rating": "8.149645346733058"
+    }
+},{
+    "name": "Yojimbo",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0055630/",
+        "movie id": "tt0055630",
+        "year": "1961",
+        "actors": " Toshir\u00f4 Mifune, Eijir\u00f4 T\u00f4no",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "144",
+        "rating": "8.148929403978794"
+    }
+},{
+    "name": "Monty Python and the Holy Grail",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0071853/",
+        "movie id": "tt0071853",
+        "year": "1975",
+        "actors": " Graham Chapman, John Cleese",
+        "directors": "Terry Gilliam "
+    },
+    "rating info": {
+        "ranking": "145",
+        "rating": "8.148370404048318"
+    }
+},{
+    "name": "The Treasure of the Sierra Madre",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0040897/",
+        "movie id": "tt0040897",
+        "year": "1948",
+        "actors": " Humphrey Bogart, Walter Huston",
+        "directors": "John Huston "
+    },
+    "rating info": {
+        "ranking": "146",
+        "rating": "8.148230401240598"
+    }
+},{
+    "name": "Spider-Man: No Way Home",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt10872600/",
+        "movie id": "tt10872600",
+        "year": "2021",
+        "actors": " Tom Holland, Zendaya",
+        "directors": "Jon Watts "
+    },
+    "rating info": {
+        "ranking": "147",
+        "rating": "8.14793051304822"
+    }
+},{
+    "name": "Jurassic Park",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0107290/",
+        "movie id": "tt0107290",
+        "year": "1993",
+        "actors": " Sam Neill, Laura Dern",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "148",
+        "rating": "8.146721095514541"
+    }
+},{
+    "name": "The Great Escape",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0057115/",
+        "movie id": "tt0057115",
+        "year": "1963",
+        "actors": " Steve McQueen, James Garner",
+        "directors": "John Sturges "
+    },
+    "rating info": {
+        "ranking": "149",
+        "rating": "8.141278615589268"
+    }
+},{
+    "name": "Rashomon",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0042876/",
+        "movie id": "tt0042876",
+        "year": "1950",
+        "actors": " Toshir\u00f4 Mifune, Machiko Ky\u00f4",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "150",
+        "rating": "8.140423991553455"
+    }
+},{
+    "name": "Kill Bill: Vol 1",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0266697/",
+        "movie id": "tt0266697",
+        "year": "2003",
+        "actors": " Uma Thurman, David Carradine",
+        "directors": "Quentin Tarantino "
+    },
+    "rating info": {
+        "ranking": "151",
+        "rating": "8.138187473687047"
+    }
+},{
+    "name": "No Country for Old Men",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0477348/",
+        "movie id": "tt0477348",
+        "year": "2007",
+        "actors": " Tommy Lee Jones, Javier Bardem",
+        "directors": "Ethan Coen "
+    },
+    "rating info": {
+        "ranking": "152",
+        "rating": "8.138145800824919"
+    }
+},{
+    "name": "Finding Nemo",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0266543/",
+        "movie id": "tt0266543",
+        "year": "2003",
+        "actors": " Albert Brooks, Ellen DeGeneres",
+        "directors": "Andrew Stanton "
+    },
+    "rating info": {
+        "ranking": "153",
+        "rating": "8.131591063410669"
+    }
+},{
+    "name": "The Thing",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0084787/",
+        "movie id": "tt0084787",
+        "year": "1982",
+        "actors": " Kurt Russell, Wilford Brimley",
+        "directors": "John Carpenter "
+    },
+    "rating info": {
+        "ranking": "154",
+        "rating": "8.131243065485377"
+    }
+},{
+    "name": "The Elephant Man",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0080678/",
+        "movie id": "tt0080678",
+        "year": "1980",
+        "actors": " Anthony Hopkins, John Hurt",
+        "directors": "David Lynch "
+    },
+    "rating info": {
+        "ranking": "155",
+        "rating": "8.128108829917618"
+    }
+},{
+    "name": "Chinatown",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0071315/",
+        "movie id": "tt0071315",
+        "year": "1974",
+        "actors": " Jack Nicholson, Faye Dunaway",
+        "directors": "Roman Polanski "
+    },
+    "rating info": {
+        "ranking": "156",
+        "rating": "8.1273916353356"
+    }
+},{
+    "name": "Raging Bull",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0081398/",
+        "movie id": "tt0081398",
+        "year": "1980",
+        "actors": " Robert De Niro, Cathy Moriarty",
+        "directors": "Martin Scorsese "
+    },
+    "rating info": {
+        "ranking": "157",
+        "rating": "8.125395280339346"
+    }
+},{
+    "name": "Gone with the Wind",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0031381/",
+        "movie id": "tt0031381",
+        "year": "1939",
+        "actors": " Clark Gable, Vivien Leigh",
+        "directors": "Victor Fleming "
+    },
+    "rating info": {
+        "ranking": "158",
+        "rating": "8.123971132169517"
+    }
+},{
+    "name": "V for Vendetta",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0434409/",
+        "movie id": "tt0434409",
+        "year": "2005",
+        "actors": " Hugo Weaving, Natalie Portman",
+        "directors": "James McTeigue "
+    },
+    "rating info": {
+        "ranking": "159",
+        "rating": "8.123919874304171"
+    }
+},{
+    "name": "Inside Out",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2096673/",
+        "movie id": "tt2096673",
+        "year": "2015",
+        "actors": " Amy Poehler, Bill Hader",
+        "directors": "Pete Docter "
+    },
+    "rating info": {
+        "ranking": "160",
+        "rating": "8.121971085906807"
+    }
+},{
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0120735/",
+        "movie id": "tt0120735",
+        "year": "1998",
+        "actors": " Jason Flemyng, Dexter Fletcher",
+        "directors": "Guy Ritchie "
+    },
+    "rating info": {
+        "ranking": "161",
+        "rating": "8.121494749493076"
+    }
+},{
+    "name": "Dial M for Murder",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0046912/",
+        "movie id": "tt0046912",
+        "year": "1954",
+        "actors": " Ray Milland, Grace Kelly",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "162",
+        "rating": "8.119923716042454"
+    }
+},{
+    "name": "The Secret in Their Eyes",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1305806/",
+        "movie id": "tt1305806",
+        "year": "2009",
+        "actors": " Ricardo Dar\u00edn, Soledad Villamil",
+        "directors": "Juan Jos\u00e9 Campanella "
+    },
+    "rating info": {
+        "ranking": "163",
+        "rating": "8.11795215225698"
+    }
+},{
+    "name": "Howl's Moving Castle",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0347149/",
+        "movie id": "tt0347149",
+        "year": "2004",
+        "actors": " Chieko Baish\u00f4, Takuya Kimura",
+        "directors": "Hayao Miyazaki "
+    },
+    "rating info": {
+        "ranking": "164",
+        "rating": "8.116518259573123"
+    }
+},{
+    "name": "The Bridge on the River Kwai",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0050212/",
+        "movie id": "tt0050212",
+        "year": "1957",
+        "actors": " William Holden, Alec Guinness",
+        "directors": "David Lean "
+    },
+    "rating info": {
+        "ranking": "165",
+        "rating": "8.112191076427667"
+    }
+},{
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt5027774/",
+        "movie id": "tt5027774",
+        "year": "2017",
+        "actors": " Frances McDormand, Woody Harrelson",
+        "directors": "Martin McDonagh "
+    },
+    "rating info": {
+        "ranking": "166",
+        "rating": "8.111479990409569"
+    }
+},{
+    "name": "Trainspotting",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0117951/",
+        "movie id": "tt0117951",
+        "year": "1996",
+        "actors": " Ewan McGregor, Ewen Bremner",
+        "directors": "Danny Boyle "
+    },
+    "rating info": {
+        "ranking": "167",
+        "rating": "8.110883661216828"
+    }
+},{
+    "name": "Warrior",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1291584/",
+        "movie id": "tt1291584",
+        "year": "2011",
+        "actors": " Tom Hardy, Nick Nolte",
+        "directors": "Gavin O'Connor "
+    },
+    "rating info": {
+        "ranking": "168",
+        "rating": "8.103361692246377"
+    }
+},{
+    "name": "Fargo",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0116282/",
+        "movie id": "tt0116282",
+        "year": "1996",
+        "actors": " William H. Macy, Frances McDormand",
+        "directors": "Joel Coen "
+    },
+    "rating info": {
+        "ranking": "169",
+        "rating": "8.102487013961259"
+    }
+},{
+    "name": "Gran Torino",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1205489/",
+        "movie id": "tt1205489",
+        "year": "2008",
+        "actors": " Clint Eastwood, Bee Vang",
+        "directors": "Clint Eastwood "
+    },
+    "rating info": {
+        "ranking": "170",
+        "rating": "8.102086983293043"
+    }
+},{
+    "name": "Prisoners",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1392214/",
+        "movie id": "tt1392214",
+        "year": "2013",
+        "actors": " Hugh Jackman, Jake Gyllenhaal",
+        "directors": "Denis Villeneuve "
+    },
+    "rating info": {
+        "ranking": "171",
+        "rating": "8.102027641055166"
+    }
+},{
+    "name": "My Neighbor Totoro",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0096283/",
+        "movie id": "tt0096283",
+        "year": "1988",
+        "actors": " Hitoshi Takagi, Noriko Hidaka",
+        "directors": "Hayao Miyazaki "
+    },
+    "rating info": {
+        "ranking": "172",
+        "rating": "8.093690271008436"
+    }
+},{
+    "name": "Catch Me If You Can",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0264464/",
+        "movie id": "tt0264464",
+        "year": "2002",
+        "actors": " Leonardo DiCaprio, Tom Hanks",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "173",
+        "rating": "8.089523979980603"
+    }
+},{
+    "name": "Million Dollar Baby",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0405159/",
+        "movie id": "tt0405159",
+        "year": "2004",
+        "actors": " Hilary Swank, Clint Eastwood",
+        "directors": "Clint Eastwood "
+    },
+    "rating info": {
+        "ranking": "174",
+        "rating": "8.0892134608514"
+    }
+},{
+    "name": "Children of Heaven",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0118849/",
+        "movie id": "tt0118849",
+        "year": "1997",
+        "actors": " Mohammad Amir Naji, Amir Farrokh Hashemian",
+        "directors": "Majid Majidi "
+    },
+    "rating info": {
+        "ranking": "175",
+        "rating": "8.086491846711182"
+    }
+},{
+    "name": "Blade Runner",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0083658/",
+        "movie id": "tt0083658",
+        "year": "1982",
+        "actors": " Harrison Ford, Rutger Hauer",
+        "directors": "Ridley Scott "
+    },
+    "rating info": {
+        "ranking": "176",
+        "rating": "8.084856935733697"
+    }
+},{
+    "name": "The Gold Rush",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0015864/",
+        "movie id": "tt0015864",
+        "year": "1925",
+        "actors": " Charles Chaplin, Mack Swain",
+        "directors": "Charles Chaplin "
+    },
+    "rating info": {
+        "ranking": "177",
+        "rating": "8.084810548768681"
+    }
+},{
+    "name": "On the Waterfront",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0047296/",
+        "movie id": "tt0047296",
+        "year": "1954",
+        "actors": " Marlon Brando, Karl Malden",
+        "directors": "Elia Kazan "
+    },
+    "rating info": {
+        "ranking": "178",
+        "rating": "8.081521600207939"
+    }
+},{
+    "name": "Before Sunrise",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0112471/",
+        "movie id": "tt0112471",
+        "year": "1995",
+        "actors": " Ethan Hawke, Julie Delpy",
+        "directors": "Richard Linklater "
+    },
+    "rating info": {
+        "ranking": "179",
+        "rating": "8.080781397963598"
+    }
+},{
+    "name": "12 Years a Slave",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2024544/",
+        "movie id": "tt2024544",
+        "year": "2013",
+        "actors": " Chiwetel Ejiofor, Michael Kenneth Williams",
+        "directors": "Steve McQueen "
+    },
+    "rating info": {
+        "ranking": "180",
+        "rating": "8.080338623907302"
+    }
+},{
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1201607/",
+        "movie id": "tt1201607",
+        "year": "2011",
+        "actors": " Daniel Radcliffe, Emma Watson",
+        "directors": "David Yates "
+    },
+    "rating info": {
+        "ranking": "181",
+        "rating": "8.07908853488172"
+    }
+},{
+    "name": "Ben-Hur",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0052618/",
+        "movie id": "tt0052618",
+        "year": "1959",
+        "actors": " Charlton Heston, Jack Hawkins",
+        "directors": "William Wyler "
+    },
+    "rating info": {
+        "ranking": "182",
+        "rating": "8.077956181332441"
+    }
+},{
+    "name": "Wild Strawberries",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0050986/",
+        "movie id": "tt0050986",
+        "year": "1957",
+        "actors": " Victor Sj\u00f6str\u00f6m, Bibi Andersson",
+        "directors": "Ingmar Bergman "
+    },
+    "rating info": {
+        "ranking": "183",
+        "rating": "8.077387548772254"
+    }
+},{
+    "name": "Gone Girl",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2267998/",
+        "movie id": "tt2267998",
+        "year": "2014",
+        "actors": " Ben Affleck, Rosamund Pike",
+        "directors": "David Fincher "
+    },
+    "rating info": {
+        "ranking": "184",
+        "rating": "8.077094027663346"
+    }
+},{
+    "name": "The Third Man",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0041959/",
+        "movie id": "tt0041959",
+        "year": "1949",
+        "actors": " Orson Welles, Joseph Cotten",
+        "directors": "Carol Reed "
+    },
+    "rating info": {
+        "ranking": "185",
+        "rating": "8.076954104666417"
+    }
+},{
+    "name": "The General",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0017925/",
+        "movie id": "tt0017925",
+        "year": "1926",
+        "actors": " Buster Keaton, Marion Mack",
+        "directors": "Clyde Bruckman "
+    },
+    "rating info": {
+        "ranking": "186",
+        "rating": "8.076885018373487"
+    }
+},{
+    "name": "The Grand Budapest Hotel",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2278388/",
+        "movie id": "tt2278388",
+        "year": "2014",
+        "actors": " Ralph Fiennes, F. Murray Abraham",
+        "directors": "Wes Anderson "
+    },
+    "rating info": {
+        "ranking": "187",
+        "rating": "8.075497724153903"
+    }
+},{
+    "name": "The Deer Hunter",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0077416/",
+        "movie id": "tt0077416",
+        "year": "1978",
+        "actors": " Robert De Niro, Christopher Walken",
+        "directors": "Michael Cimino "
+    },
+    "rating info": {
+        "ranking": "188",
+        "rating": "8.074415943974989"
+    }
+},{
+    "name": "In the Name of the Father",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0107207/",
+        "movie id": "tt0107207",
+        "year": "1993",
+        "actors": " Daniel Day-Lewis, Pete Postlethwaite",
+        "directors": "Jim Sheridan "
+    },
+    "rating info": {
+        "ranking": "189",
+        "rating": "8.07409076113616"
+    }
+},{
+    "name": "Klaus",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt4729430/",
+        "movie id": "tt4729430",
+        "year": "2019",
+        "actors": " Jason Schwartzman, J.K. Simmons",
+        "directors": "Sergio Pablos "
+    },
+    "rating info": {
+        "ranking": "190",
+        "rating": "8.073483127487542"
+    }
+},{
+    "name": "Barry Lyndon",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0072684/",
+        "movie id": "tt0072684",
+        "year": "1975",
+        "actors": " Ryan O'Neal, Marisa Berenson",
+        "directors": "Stanley Kubrick "
+    },
+    "rating info": {
+        "ranking": "191",
+        "rating": "8.07222876195403"
+    }
+},{
+    "name": "The Wages of Fear",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0046268/",
+        "movie id": "tt0046268",
+        "year": "1953",
+        "actors": " Yves Montand, Charles Vanel",
+        "directors": "Henri-Georges Clouzot "
+    },
+    "rating info": {
+        "ranking": "192",
+        "rating": "8.072104190114663"
+    }
+},{
+    "name": "Hacksaw Ridge",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt2119532/",
+        "movie id": "tt2119532",
+        "year": "2016",
+        "actors": " Andrew Garfield, Sam Worthington",
+        "directors": "Mel Gibson "
+    },
+    "rating info": {
+        "ranking": "193",
+        "rating": "8.069659460748044"
+    }
+},{
+    "name": "Sherlock Jr",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0015324/",
+        "movie id": "tt0015324",
+        "year": "1924",
+        "actors": " Buster Keaton, Kathryn McGuire",
+        "directors": "Buster Keaton "
+    },
+    "rating info": {
+        "ranking": "194",
+        "rating": "8.06890940897372"
+    }
+},{
+    "name": "Mr Smith Goes to Washington",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0031679/",
+        "movie id": "tt0031679",
+        "year": "1939",
+        "actors": " James Stewart, Jean Arthur",
+        "directors": "Frank Capra "
+    },
+    "rating info": {
+        "ranking": "195",
+        "rating": "8.068487983033544"
+    }
+},{
+    "name": "Memories of Murder",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0353969/",
+        "movie id": "tt0353969",
+        "year": "2003",
+        "actors": " Song Kang-ho, Kim Sang-kyung",
+        "directors": "Bong Joon Ho "
+    },
+    "rating info": {
+        "ranking": "196",
+        "rating": "8.067588699173118"
+    }
+},{
+    "name": "Wild Tales",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt3011894/",
+        "movie id": "tt3011894",
+        "year": "2014",
+        "actors": " Dar\u00edo Grandinetti, Mar\u00eda Marull",
+        "directors": "Dami\u00e1n Szifron "
+    },
+    "rating info": {
+        "ranking": "197",
+        "rating": "8.067098492128189"
+    }
+},{
+    "name": "The Seventh Seal",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0050976/",
+        "movie id": "tt0050976",
+        "year": "1957",
+        "actors": " Max von Sydow, Gunnar Bj\u00f6rnstrand",
+        "directors": "Ingmar Bergman "
+    },
+    "rating info": {
+        "ranking": "198",
+        "rating": "8.063912027580646"
+    }
+},{
+    "name": "Mad Max: Fury Road",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1392190/",
+        "movie id": "tt1392190",
+        "year": "2015",
+        "actors": " Tom Hardy, Charlize Theron",
+        "directors": "George Miller "
+    },
+    "rating info": {
+        "ranking": "199",
+        "rating": "8.063323186617447"
+    }
+},{
+    "name": "Room",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt3170832/",
+        "movie id": "tt3170832",
+        "year": "2015",
+        "actors": " Brie Larson, Jacob Tremblay",
+        "directors": "Lenny Abrahamson "
+    },
+    "rating info": {
+        "ranking": "200",
+        "rating": "8.06300692856036"
+    }
+},{
+    "name": "Mary and Max",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0978762/",
+        "movie id": "tt0978762",
+        "year": "2009",
+        "actors": " Toni Collette, Philip Seymour Hoffman",
+        "directors": "Adam Elliot "
+    },
+    "rating info": {
+        "ranking": "201",
+        "rating": "8.06249450668468"
+    }
+},{
+    "name": "How to Train Your Dragon",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0892769/",
+        "movie id": "tt0892769",
+        "year": "2010",
+        "actors": " Jay Baruchel, Gerard Butler",
+        "directors": "Dean DeBlois "
+    },
+    "rating info": {
+        "ranking": "202",
+        "rating": "8.061625883057266"
+    }
+},{
+    "name": "Monsters, Inc",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0198781/",
+        "movie id": "tt0198781",
+        "year": "2001",
+        "actors": " Billy Crystal, John Goodman",
+        "directors": "Pete Docter "
+    },
+    "rating info": {
+        "ranking": "203",
+        "rating": "8.060053076122987"
+    }
+},{
+    "name": "The Big Lebowski",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0118715/",
+        "movie id": "tt0118715",
+        "year": "1998",
+        "actors": " Jeff Bridges, John Goodman",
+        "directors": "Joel Coen "
+    },
+    "rating info": {
+        "ranking": "204",
+        "rating": "8.059954467856512"
+    }
+},{
+    "name": "Jaws",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0073195/",
+        "movie id": "tt0073195",
+        "year": "1975",
+        "actors": " Roy Scheider, Robert Shaw",
+        "directors": "Steven Spielberg "
+    },
+    "rating info": {
+        "ranking": "205",
+        "rating": "8.059774748412776"
+    }
+},{
+    "name": "Dead Poets Society",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0097165/",
+        "movie id": "tt0097165",
+        "year": "1989",
+        "actors": " Robin Williams, Robert Sean Leonard",
+        "directors": "Peter Weir "
+    },
+    "rating info": {
+        "ranking": "206",
+        "rating": "8.057032041761959"
+    }
+},{
+    "name": "The Passion of Joan of Arc",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0019254/",
+        "movie id": "tt0019254",
+        "year": "1928",
+        "actors": " Maria Falconetti, Eugene Silvain",
+        "directors": "Carl Theodor Dreyer "
+    },
+    "rating info": {
+        "ranking": "207",
+        "rating": "8.05502210979625"
+    }
+},{
+    "name": "Tokyo Story",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0046438/",
+        "movie id": "tt0046438",
+        "year": "1953",
+        "actors": " Chish\u00fb Ry\u00fb, Chieko Higashiyama",
+        "directors": "Yasujir\u00f4 Ozu "
+    },
+    "rating info": {
+        "ranking": "208",
+        "rating": "8.054253183801377"
+    }
+},{
+    "name": "Hotel Rwanda",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0395169/",
+        "movie id": "tt0395169",
+        "year": "2004",
+        "actors": " Don Cheadle, Sophie Okonedo",
+        "directors": "Terry George "
+    },
+    "rating info": {
+        "ranking": "209",
+        "rating": "8.050973092585151"
+    }
+},{
+    "name": "Ford v Ferrari",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1950186/",
+        "movie id": "tt1950186",
+        "year": "2019",
+        "actors": " Matt Damon, Christian Bale",
+        "directors": "James Mangold "
+    },
+    "rating info": {
+        "ranking": "210",
+        "rating": "8.047767050335343"
+    }
+},{
+    "name": "Rocky",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0075148/",
+        "movie id": "tt0075148",
+        "year": "1976",
+        "actors": " Sylvester Stallone, Talia Shire",
+        "directors": "John G. Avildsen "
+    },
+    "rating info": {
+        "ranking": "211",
+        "rating": "8.046550593223543"
+    }
+},{
+    "name": "Platoon",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0091763/",
+        "movie id": "tt0091763",
+        "year": "1986",
+        "actors": " Charlie Sheen, Tom Berenger",
+        "directors": "Oliver Stone "
+    },
+    "rating info": {
+        "ranking": "212",
+        "rating": "8.045442439589616"
+    }
+},{
+    "name": "Spotlight",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1895587/",
+        "movie id": "tt1895587",
+        "year": "2015",
+        "actors": " Mark Ruffalo, Michael Keaton",
+        "directors": "Tom McCarthy "
+    },
+    "rating info": {
+        "ranking": "213",
+        "rating": "8.040254785810758"
+    }
+},{
+    "name": "The Terminator",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0088247/",
+        "movie id": "tt0088247",
+        "year": "1984",
+        "actors": " Arnold Schwarzenegger, Linda Hamilton",
+        "directors": "James Cameron "
+    },
+    "rating info": {
+        "ranking": "214",
+        "rating": "8.040196185699815"
+    }
+},{
+    "name": "Stand by Me",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0092005/",
+        "movie id": "tt0092005",
+        "year": "1986",
+        "actors": " Wil Wheaton, River Phoenix",
+        "directors": "Rob Reiner "
+    },
+    "rating info": {
+        "ranking": "215",
+        "rating": "8.039900967627608"
+    }
+},{
+    "name": "Ratatouille",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0382932/",
+        "movie id": "tt0382932",
+        "year": "2007",
+        "actors": " Brad Garrett, Lou Romano",
+        "directors": "Brad Bird "
+    },
+    "rating info": {
+        "ranking": "216",
+        "rating": "8.038827109477653"
+    }
+},{
+    "name": "Logan",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt3315342/",
+        "movie id": "tt3315342",
+        "year": "2017",
+        "actors": " Hugh Jackman, Patrick Stewart",
+        "directors": "James Mangold "
+    },
+    "rating info": {
+        "ranking": "217",
+        "rating": "8.038814917317909"
+    }
+},{
+    "name": "Rush",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1979320/",
+        "movie id": "tt1979320",
+        "year": "2013",
+        "actors": " Daniel Br\u00fchl, Chris Hemsworth",
+        "directors": "Ron Howard "
+    },
+    "rating info": {
+        "ranking": "218",
+        "rating": "8.037309843235429"
+    }
+},{
+    "name": "Pather Panchali",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0048473/",
+        "movie id": "tt0048473",
+        "year": "1955",
+        "actors": " Kanu Bannerjee, Karuna Bannerjee",
+        "directors": "Satyajit Ray "
+    },
+    "rating info": {
+        "ranking": "219",
+        "rating": "8.035616108309034"
+    }
+},{
+    "name": "Network",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0074958/",
+        "movie id": "tt0074958",
+        "year": "1976",
+        "actors": " Faye Dunaway, William Holden",
+        "directors": "Sidney Lumet "
+    },
+    "rating info": {
+        "ranking": "220",
+        "rating": "8.035253486050555"
+    }
+},{
+    "name": "Into the Wild",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0758758/",
+        "movie id": "tt0758758",
+        "year": "2007",
+        "actors": " Emile Hirsch, Vince Vaughn",
+        "directors": "Sean Penn "
+    },
+    "rating info": {
+        "ranking": "221",
+        "rating": "8.03371791652527"
+    }
+},{
+    "name": "The Wizard of Oz",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0032138/",
+        "movie id": "tt0032138",
+        "year": "1939",
+        "actors": " Judy Garland, Frank Morgan",
+        "directors": "Victor Fleming "
+    },
+    "rating info": {
+        "ranking": "222",
+        "rating": "8.032559562753573"
+    }
+},{
+    "name": "Before Sunset",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0381681/",
+        "movie id": "tt0381681",
+        "year": "2004",
+        "actors": " Ethan Hawke, Julie Delpy",
+        "directors": "Richard Linklater "
+    },
+    "rating info": {
+        "ranking": "223",
+        "rating": "8.031487795103518"
+    }
+},{
+    "name": "Groundhog Day",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0107048/",
+        "movie id": "tt0107048",
+        "year": "1993",
+        "actors": " Bill Murray, Andie MacDowell",
+        "directors": "Harold Ramis "
+    },
+    "rating info": {
+        "ranking": "224",
+        "rating": "8.028869774088648"
+    }
+},{
+    "name": "The Best Years of Our Lives",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0036868/",
+        "movie id": "tt0036868",
+        "year": "1946",
+        "actors": " Myrna Loy, Dana Andrews",
+        "directors": "William Wyler "
+    },
+    "rating info": {
+        "ranking": "225",
+        "rating": "8.027204059672059"
+    }
+},{
+    "name": "The Exorcist",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0070047/",
+        "movie id": "tt0070047",
+        "year": "1973",
+        "actors": " Ellen Burstyn, Max von Sydow",
+        "directors": "William Friedkin "
+    },
+    "rating info": {
+        "ranking": "226",
+        "rating": "8.027166821107972"
+    }
+},{
+    "name": "To Be or Not to Be",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0035446/",
+        "movie id": "tt0035446",
+        "year": "1942",
+        "actors": " Carole Lombard, Jack Benny",
+        "directors": "Ernst Lubitsch "
+    },
+    "rating info": {
+        "ranking": "227",
+        "rating": "8.025159380769631"
+    }
+},{
+    "name": "The Incredibles",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0317705/",
+        "movie id": "tt0317705",
+        "year": "2004",
+        "actors": " Craig T. Nelson, Samuel L. Jackson",
+        "directors": "Brad Bird "
+    },
+    "rating info": {
+        "ranking": "228",
+        "rating": "8.0251246551671"
+    }
+},{
+    "name": "The Battle of Algiers",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0058946/",
+        "movie id": "tt0058946",
+        "year": "1966",
+        "actors": " Brahim Hadjadj, Jean Martin",
+        "directors": "Gillo Pontecorvo "
+    },
+    "rating info": {
+        "ranking": "229",
+        "rating": "8.024053272565205"
+    }
+},{
+    "name": "Jai Bhim",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt15097216/",
+        "movie id": "tt15097216",
+        "year": "2021",
+        "actors": " Suriya, Lijo Mol Jose",
+        "directors": "T.J. Gnanavel "
+    },
+    "rating info": {
+        "ranking": "230",
+        "rating": "8.022906331449471"
+    }
+},{
+    "name": "Hachi: A Dog's Tale",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1028532/",
+        "movie id": "tt1028532",
+        "year": "2009",
+        "actors": " Richard Gere, Joan Allen",
+        "directors": "Lasse Hallstr\u00f6m "
+    },
+    "rating info": {
+        "ranking": "231",
+        "rating": "8.022537493376946"
+    }
+},{
+    "name": "La haine",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0113247/",
+        "movie id": "tt0113247",
+        "year": "1995",
+        "actors": " Vincent Cassel, Hubert Kound\u00e9",
+        "directors": "Mathieu Kassovitz "
+    },
+    "rating info": {
+        "ranking": "232",
+        "rating": "8.022249533309367"
+    }
+},{
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0325980/",
+        "movie id": "tt0325980",
+        "year": "2003",
+        "actors": " Johnny Depp, Geoffrey Rush",
+        "directors": "Gore Verbinski "
+    },
+    "rating info": {
+        "ranking": "233",
+        "rating": "8.021848990235636"
+    }
+},{
+    "name": "The Grapes of Wrath",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0032551/",
+        "movie id": "tt0032551",
+        "year": "1940",
+        "actors": " Henry Fonda, Jane Darwell",
+        "directors": "John Ford "
+    },
+    "rating info": {
+        "ranking": "234",
+        "rating": "8.021773440472172"
+    }
+},{
+    "name": "Rebecca",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0032976/",
+        "movie id": "tt0032976",
+        "year": "1940",
+        "actors": " Laurence Olivier, Joan Fontaine",
+        "directors": "Alfred Hitchcock "
+    },
+    "rating info": {
+        "ranking": "235",
+        "rating": "8.02145204761242"
+    }
+},{
+    "name": "My Father and My Son",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0476735/",
+        "movie id": "tt0476735",
+        "year": "2005",
+        "actors": " \u00c7etin Tekindor, Fikret Kuskan",
+        "directors": "\u00c7agan Irmak "
+    },
+    "rating info": {
+        "ranking": "236",
+        "rating": "8.021440280003327"
+    }
+},{
+    "name": "Amores Perros",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0245712/",
+        "movie id": "tt0245712",
+        "year": "2000",
+        "actors": " Emilio Echevarr\u00eda, Gael Garc\u00eda Bernal",
+        "directors": "Alejandro G. I\u00f1\u00e1rritu "
+    },
+    "rating info": {
+        "ranking": "237",
+        "rating": "8.021300281903303"
+    }
+},{
+    "name": "Cool Hand Luke",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0061512/",
+        "movie id": "tt0061512",
+        "year": "1967",
+        "actors": " Paul Newman, George Kennedy",
+        "directors": "Stuart Rosenberg "
+    },
+    "rating info": {
+        "ranking": "238",
+        "rating": "8.019472347995338"
+    }
+},{
+    "name": "The 400 Blows",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0053198/",
+        "movie id": "tt0053198",
+        "year": "1959",
+        "actors": " Jean-Pierre L\u00e9aud, Albert R\u00e9my",
+        "directors": "Fran\u00e7ois Truffaut "
+    },
+    "rating info": {
+        "ranking": "239",
+        "rating": "8.015985580577462"
+    }
+},{
+    "name": "The Handmaiden",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt4016934/",
+        "movie id": "tt4016934",
+        "year": "2016",
+        "actors": " Kim Min-hee, Ha Jung-woo",
+        "directors": "Park Chan-wook "
+    },
+    "rating info": {
+        "ranking": "240",
+        "rating": "8.014712720162546"
+    }
+},{
+    "name": "Persona",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0060827/",
+        "movie id": "tt0060827",
+        "year": "1966",
+        "actors": " Bibi Andersson, Liv Ullmann",
+        "directors": "Ingmar Bergman "
+    },
+    "rating info": {
+        "ranking": "241",
+        "rating": "8.013444473173783"
+    }
+},{
+    "name": "It Happened One Night",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0025316/",
+        "movie id": "tt0025316",
+        "year": "1934",
+        "actors": " Clark Gable, Claudette Colbert",
+        "directors": "Frank Capra "
+    },
+    "rating info": {
+        "ranking": "242",
+        "rating": "8.013326790250423"
+    }
+},{
+    "name": "The Sound of Music",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0059742/",
+        "movie id": "tt0059742",
+        "year": "1965",
+        "actors": " Julie Andrews, Christopher Plummer",
+        "directors": "Robert Wise "
+    },
+    "rating info": {
+        "ranking": "243",
+        "rating": "8.012902895720522"
+    }
+},{
+    "name": "Life of Brian",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0079470/",
+        "movie id": "tt0079470",
+        "year": "1979",
+        "actors": " Graham Chapman, John Cleese",
+        "directors": "Terry Jones "
+    },
+    "rating info": {
+        "ranking": "244",
+        "rating": "8.011581983295777"
+    }
+},{
+    "name": "Everything Everywhere All at Once",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt6710474/",
+        "movie id": "tt6710474",
+        "year": "2022",
+        "actors": " Michelle Yeoh, Stephanie Hsu",
+        "directors": "Dan Kwan "
+    },
+    "rating info": {
+        "ranking": "245",
+        "rating": "8.006668512047526"
+    }
+},{
+    "name": "Dersu Uzala",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0071411/",
+        "movie id": "tt0071411",
+        "year": "1975",
+        "actors": " Maksim Munzuk, Yuriy Solomin",
+        "directors": "Akira Kurosawa "
+    },
+    "rating info": {
+        "ranking": "246",
+        "rating": "8.00663176565757"
+    }
+},{
+    "name": "The Iron Giant",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0129167/",
+        "movie id": "tt0129167",
+        "year": "1999",
+        "actors": " Eli Marienthal, Harry Connick Jr.",
+        "directors": "Brad Bird "
+    },
+    "rating info": {
+        "ranking": "247",
+        "rating": "8.005157170730522"
+    }
+},{
+    "name": "Aladdin",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0103639/",
+        "movie id": "tt0103639",
+        "year": "1992",
+        "actors": " Scott Weinger, Robin Williams",
+        "directors": "Ron Clements "
+    },
+    "rating info": {
+        "ranking": "248",
+        "rating": "8.005088599559304"
+    }
+},{
+    "name": "The Help",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt1454029/",
+        "movie id": "tt1454029",
+        "year": "2011",
+        "actors": " Viola Davis, Emma Stone",
+        "directors": "Tate Taylor "
+    },
+    "rating info": {
+        "ranking": "249",
+        "rating": "8.004892720151226"
+    }
+},{
+    "name": "Gandhi",
+    "detail info": {
+        "url": "https://www.imdb.com/title/tt0083987/",
+        "movie id": "tt0083987",
+        "year": "1982",
+        "actors": " Ben Kingsley, John Gielgud",
+        "directors": "Richard Attenborough "
+    },
+    "rating info": {
+        "ranking": "250",
+        "rating": "8.004108494328234"
+    }
+}]
