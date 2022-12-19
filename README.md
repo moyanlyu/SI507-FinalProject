@@ -9,8 +9,7 @@ Allow users to interact with the program by selecting the movies they are intere
 
 2. Data Source:
 New York Times- Movies review:
-Original URL: http://api.nytimes.com/svc/movies/v2/reviews/all.json?&api-key=09YtZvPGt7bLLByPxBXALLNu2mIF8ksS
-Format: Json, web API I haven’t used before that requires API key
+Original URL: http://api.nytimes.com/svc/movies/v2/reviews/all.json?&api-key=your_key
 Data summary: New York Times movies review data is mainly about the top 250 movies and their corresponding article critical reviews. The length of the json file is 250. It is corresponding to IMDb top 250 movie data, but these two databases are complementary to each other.
 IMDB: 
 Scraping Top 250 movies in one single page: http://www.imdb.com/chart/top
